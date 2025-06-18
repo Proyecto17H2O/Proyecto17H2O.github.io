@@ -11204,3 +11204,10 @@ body {
 .container2093{
 	display: flex;
 }
+.chart-container728 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
