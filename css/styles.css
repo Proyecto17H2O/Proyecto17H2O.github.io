@@ -11221,3 +11221,10 @@ body {
 .imagen-container89:hover {
   background-image: url('./Imagenes/Circuito_M1/C13.jpg');
 }
+
+
+#hoverImg {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
