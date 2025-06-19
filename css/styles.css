@@ -11212,8 +11212,8 @@ body {
 
 
 .imagen-container89 {
-  width: 20px; /* Ajusta el tamaño según tu necesidad */
-  height: 50px; /* Ajusta el tamaño según tu necesidad */
+  width: 2px; /* Ajusta el tamaño según tu necesidad */
+  height: 5px; /* Ajusta el tamaño según tu necesidad */
   background-image: url('./Imagenes/Circuito_M1/C12.jpg');
   background-size: cover; /* Ajusta la imagen al contenedor */
 }
