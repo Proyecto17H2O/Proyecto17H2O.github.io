@@ -158,3 +158,8 @@ window.addEventListener('DOMContentLoaded', event => {
             };
             return titulos[pregunta];
         }
+
+
+const img = document.getElementById('hoverImg');
+img.onmouseover = () => img.src = './Imagenes/Circuito_M1/C13.jpg';
+img.onmouseout = () => img.src = './Imagenes/Circuito_M1/C12.jpg';
